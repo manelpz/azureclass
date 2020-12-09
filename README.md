@@ -1,6 +1,7 @@
-
-- [](https://mango-wave-091747910.azurestaticapps.net/) - https://mango-wave-091747910.azurestaticapps.net/ 
-
+<div align="center">
+ [](https://mango-wave-091747910.azurestaticapps.net/) - https://mango-wave-091747910.azurestaticapps.net/ 
+<div>
+  
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://githubcampus.expert/assets/images/ce-flag.png" alt="Project logo"></a>
