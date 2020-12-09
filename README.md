@@ -1,5 +1,5 @@
 <div align="center">
- [](https://mango-wave-091747910.azurestaticapps.net/) - https://mango-wave-091747910.azurestaticapps.net/ 
+ (Azure deployment link) - https://mango-wave-091747910.azurestaticapps.net/ 
 <div>
   
 <p align="center">
